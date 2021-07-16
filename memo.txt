@@ -1,1 +1,17 @@
-ReLU関数：正規化線形関数
+ReLU：正規化線形関数
+tanh：双曲線正接関数
+
+Hadoop
+データを複数のサーバに分散
+並列処理するミドルウェア
+テラ・ペタバイト九のデータ分析を高速処理
+ビッグデータ活用の主要技術
+
+DistBelief
+Googleが開発
+並列処理によるDeep Learningの高速化
+TensorFlowの前身
+
+MapReduce
+Hadoopフレームワーク内のプラグラミングモデル
+Hadoopフレームワークに不可欠な主要コンポーネント
